@@ -14,6 +14,12 @@ ul {
   list-style: none;
 }
 
+#displayDate {
+  position: fixed;
+  top: 5.5rem;
+  right: 3rem;
+}
+
 #header {
   display: flex;
   position: fixed;
